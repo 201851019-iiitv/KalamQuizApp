@@ -3,13 +3,16 @@
 
 ## This is Flutter Based basic App.
 
-This is test your Knowledge, what you Know our honourable Former president `APJ Abdul kalam`.
+This is test your Knowledge, what you Know our honourable `Former president APJ Abdul kalam`.
 
 Assumes local installation of  `Android Studio` ,`Flutter`,`Android Emulator`.
 
 
 
 ## Demo 
+
+![kalamQuiz2](https://user-images.githubusercontent.com/48892208/102683677-ac19d100-41f8-11eb-9e8a-87d03c3460a1.gif)
+
 
 
 ## Technologies Used
