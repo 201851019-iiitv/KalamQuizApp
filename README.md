@@ -15,6 +15,7 @@ Assumes local installation of  `Android Studio` ,`Flutter`,`Android Emulator`.
 
 
 
+
 ## Technologies Used
 * Android Studio
 * VS Code
@@ -24,4 +25,6 @@ Assumes local installation of  `Android Studio` ,`Flutter`,`Android Emulator`.
 
 
 
-Thank you! :)
+Thank you! ☺️
+
+made with ❤️ by Ambesh Kumar.
